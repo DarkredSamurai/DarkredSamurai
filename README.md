@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkredSamurai
 - 👀 I’m interested in coding & anime
-- 🌱 I’m currently learning C, PHP and Flutter
+- 🌱 I’m currently learning ... Java?
 - 💞️ I’m looking to collaborate on ... idk? I'M NEW
 - 📫 How to reach me ... here i think?
 
