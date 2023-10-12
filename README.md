@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkredSamurai
-- 👀 I’m interested in coding & anime
+- 👀 I’m just answering these questions here
 - 🌱 I’m currently learning ... Java?
 - 💞️ I’m looking to collaborate on ... idk? I'M NEW
 - 📫 How to reach me ... here i think?
