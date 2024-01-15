@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkredSamurai
 - 👀 I’m just answering these questions here
-- 🌱 I’m currently learning ... Java?
+- 🌱 I’m currently learning ... Java? And Flutter?
 - 💞️ I’m looking to collaborate on ... idk? I'M NEW
 - 📫 How to reach me ... here i think?
 
